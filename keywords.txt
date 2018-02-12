@@ -1,0 +1,37 @@
+#######################################
+# Syntax Coloring Map For ExampleLibrary
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+PetersonAlchemy_TMP100	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin KEYWORD2
+toFahrenheit  KEYWORD2
+readTempC KEYWORD2
+readTempF KEYWORD2
+getEvent  KEYWORD2
+getSensor KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+TMP100_ADD1_0_ADD0_0  LITERAL1
+TMP100_ADD1_0_ADD0_F  LITERAL1
+TMP100_ADD1_0_ADD0_1  LITERAL1
+TMP100_ADD1_1_ADD0_0  LITERAL1
+TMP100_ADD1_1_ADD0_F  LITERAL1
+TMP100_ADD1_1_ADD0_1  LITERAL1
+TMP100_ADD1_F_ADD0_0  LITERAL1
+TMP100_ADD1_F_ADD0_1  LITERAL1
