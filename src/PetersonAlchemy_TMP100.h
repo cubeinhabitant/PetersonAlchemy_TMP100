@@ -61,7 +61,7 @@ private:
 
   boolean  init();
 
-  /* Commonly found in the Adafruit librariesl */
+  /* Commonly found in the Adafruit libraries */
   void     write8 (uint8_t reg, uint8_t value);
   uint16_t read16 (uint8_t reg);
 };
